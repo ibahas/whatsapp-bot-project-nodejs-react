@@ -47,7 +47,7 @@ A full-stack platform for managing WhatsApp Business communications with advance
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/whatsapp-bot.git
+git clone https://github.com/ibahas/whatsapp-bot-project-nodejs-react
 cd whatsapp-bot
 
 
